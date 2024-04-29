@@ -1,5 +1,5 @@
 # 👋🏻 Hey there, I'm Guilherme !! 
-I'm Guilherme Souza, Software Engineering student, technology enthusiast and coffee lover. I am currently studying to learn more.
+I'm Guilherme Souza, Software Engineering student, technology enthusiast and coffee lover. I am currently studying RUST.
 
   ### 🛠 Tech Stack
   <div>
