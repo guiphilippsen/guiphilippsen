@@ -36,3 +36,7 @@ I'm Guilherme Souza, Software Engineering student, technology enthusiast and cof
   <img height="180em" margin-right="5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiphilippsen&layout=compact&langs_count16&theme=radical"/>
 </div>
 <br>
+<div>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/dorimedev2021.png" alt="Your Image Badge" />
+</div>
+<br>
