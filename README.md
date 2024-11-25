@@ -60,10 +60,3 @@ Here are the tools and technologies I work with:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiphilippsen&show_icons=true&theme=radical" alt="Guilherme's GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiphilippsen&layout=compact&langs_count=16&theme=radical" alt="Most Used Languages"/>
 </div>
-
----
-
-## 🎖️ TryHackMe Badge
-<div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/dorimedev2021.png" alt="TryHackMe Badge"/>
-</div>
