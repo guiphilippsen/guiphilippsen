@@ -1,6 +1,6 @@
 # 👋🏻 Hey there, I'm Guilherme! 
 I'm **Guilherme Souza**, a Software Engineering student, technology enthusiast, and coffee lover.  
-Currently, I'm diving into the world of **Cyber Securiy**. 🌟  
+Currently, I'm diving into the world of **Ruby on Rails**. 🌟  
 
 ---
 
